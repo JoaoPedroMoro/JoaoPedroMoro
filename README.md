@@ -4,7 +4,8 @@ Estudante de Ciência da Computação 💻
 
 ![João Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroMoro&show_icons=true&theme=transparent)
 
-[![LinkedIn]([[https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-moro-bolognini/))
+[![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-moro-bolognini/)
+
 [![Gmail]([https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))](joaopedromorob@gmail.com) 
 
 
