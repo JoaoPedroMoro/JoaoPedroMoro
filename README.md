@@ -5,10 +5,10 @@ Estudante de Ciência da Computação 💻
 ![João Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroMoro&show_icons=true&theme=transparent)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-moro-bolognini/)
-[![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaopedromorob@gmail.com)
 
 ---
-
+### Skills
+[https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=]
 
 
 <!--
