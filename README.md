@@ -2,23 +2,38 @@
 
 Estudante de Ciência da Computação 💻
 
-![João Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroMoro&show_icons=true&theme=transparent)
+Entusiasta de Ciência de Dados e Machine Learning.
+
+![João Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroMoro&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroMoro&langs_count=8)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-moro-bolognini/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/JoaoPedroMoro)
 
 ---
 ### Skills
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<div style="display: inline_block">
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="r" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img align="center" alt="tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <img align="center" alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div><br/>
 
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+---
+### Fatos sobre mim
 
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+- Estudo ciência da computação na UFSCAR 📚
+- Atualmente moro em Sorocaba 🏠
+- Minha linguagem favorito é python <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+- Quero trabalhar com dados ou com machine learning 🖥️
 
 <!--
 **JoaoPedroMoro/JoaoPedroMoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
