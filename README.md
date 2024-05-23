@@ -30,9 +30,9 @@ Entusiasta de Ciência de Dados e Machine Learning.
 ---
 ### Fatos sobre mim
 
-- Estudo ciência da computação na UFSCAR 📚
+- Estudo Ciências da Computação na UFSCAR 📚
 - Atualmente moro em Sorocaba 🏠
-- Minha linguagem favorito é python <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+- Minha linguagem favorita é Python <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 - Quero trabalhar com dados ou com machine learning 🖥️
 
 <!--
