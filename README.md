@@ -1,8 +1,8 @@
 ### Olá, meu nome é João Pedro 👋
 
-Estudante de Ciência da Computação 💻
+Estudante de Ciência da Computação 💻.
 
-Entusiasta de Ciência de Dados e Machine Learning.
+Atualmento procuro por vagas de desenvolvimento em Python ou Java.
 
 ![João Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroMoro&show_icons=true&theme=dracula)
 
@@ -17,12 +17,12 @@ Entusiasta de Ciência de Dados e Machine Learning.
 
 <div style="display: inline_block">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="r" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img align="center" alt="tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
   <img align="center" alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
@@ -30,10 +30,12 @@ Entusiasta de Ciência de Dados e Machine Learning.
 ---
 ### Fatos sobre mim
 
-- Estudo Ciências da Computação na UFSCAR 📚
-- Atualmente moro em Sorocaba 🏠
-- Minha linguagem favorita é Python <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-- Quero trabalhar com dados ou com machine learning 🖥️
+- Estudo Ciências da Computação na UFSCAR 📚.
+- Sou de São José do Rio Preto.
+- Atualmente moro em Campinas 🏠.
+- Hoje sou estagiário analista de saúde e segurança ocupacional na Tetra Pak.
+- Minhas linguagens favoritas são Python e Java.
+- Quero trabalhar com desenvolvimento de software 🖥️.
 
 <!--
 **JoaoPedroMoro/JoaoPedroMoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
