@@ -4,9 +4,9 @@ Estudante de Ciência da Computação 💻.
 
 Atualmento procuro por vagas de desenvolvimento em Python ou Java.
 
-![João Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroMoro&show_icons=true&theme=dracula)
+![João Pedro's GitHub stats](https://github-readme-stats.egoist.app/api?username=JoaoPedroMoro&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroMoro&langs_count=8)
+![Top Langs](https://github-readme-stats.egoist.app/api/top-langs/?username=JoaoPedroMoro&langs_count=8)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-moro-bolognini/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/JoaoPedroMoro)
