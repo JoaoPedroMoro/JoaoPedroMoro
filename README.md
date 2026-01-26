@@ -1,8 +1,8 @@
 ### Olá, meu nome é João Pedro 👋
 
-Estudante de Ciência da Computação 💻.
+Graduado em Ciência da Computação pela UFSCar 💻.
 
-Atualmento procuro por vagas de desenvolvimento em Python ou Java.
+Atualmento procuro por vagas de desenvolvedor back-end, engenheiro de software ou analista de dados.
 
 ![João Pedro's GitHub stats](https://github-readme-stats1-woad.vercel.app/api?username=JoaoPedroMoro&show_icons=true&theme=dracula)
 
@@ -30,10 +30,9 @@ Atualmento procuro por vagas de desenvolvimento em Python ou Java.
 ---
 ### Fatos sobre mim
 
-- Estudo Ciências da Computação na UFSCAR 📚.
-- Sou de São José do Rio Preto.
-- Atualmente moro em Campinas 🏠.
-- Hoje sou estagiário analista de saúde e segurança ocupacional na Tetra Pak.
+- Estudei Ciências da Computação na UFSCAR 📚.
+- Sou natural de São José do Rio Preto e moro aqui atualmente.
+- Tive uma experiência de 1 ano como estagiário analista de saúde e segurança ocupacional na Tetra Pak.
 - Minhas linguagens favoritas são Python e Java.
 - Quero trabalhar com desenvolvimento de software 🖥️.
 
